@@ -1,6 +1,6 @@
 # Food Delivery App
 
-![Food Delivery App Logo](food-delivery-app-logo.png)
+![Food Delivery App Logo](food.png)
 
 ## Overview
 
